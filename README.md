@@ -40,9 +40,8 @@ The dashboard transforms educational transaction data into meaningful insights t
 ![Course Performance Analysis](Course%20Performance.png)
 
 ### 5. Key Insights & Recommendations
-*Replace the filename below with the exact name shown in your repository.*
 
-![Key Insights and Recommendations](REPLACE-WITH-EXACT-FILENAME.png)
+![Key Insights and Recommendations](Key%20Insights%20%26%20Recomm....png)
 
 ## 🔍 Key Analytical Areas
 
